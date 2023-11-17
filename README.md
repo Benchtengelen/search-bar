@@ -5,7 +5,7 @@ Click demo to try it by yourself!
 ## Search Bar Demo Link
 
 You can view the site here
-[Click Me](https://acoustic-lift.surge.sh/)
+[Click Me](https://quiet-unicorn-7ea109.netlify.app/)
 
 ## Topics
 
